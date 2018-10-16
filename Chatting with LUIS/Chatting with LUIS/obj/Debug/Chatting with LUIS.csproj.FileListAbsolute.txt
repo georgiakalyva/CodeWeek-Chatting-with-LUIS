@@ -1,0 +1,10 @@
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\obj\Debug\Chatting with LUIS.csprojAssemblyReference.cache
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\obj\Debug\Chatting with LUIS.csproj.CoreCompileInputs.cache
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\bin\Debug\Chatting with LUIS.exe.config
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\bin\Debug\Chatting with LUIS.exe
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\bin\Debug\Chatting with LUIS.pdb
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\obj\Debug\Chatting with LUIS.exe
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\obj\Debug\Chatting with LUIS.pdb
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\georgia\source\repos\Chatting with LUIS\Chatting with LUIS\obj\Debug\Chatting with LUIS.csproj.CopyComplete
