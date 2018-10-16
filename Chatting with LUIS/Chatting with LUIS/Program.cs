@@ -26,8 +26,8 @@ namespace Chatting_with_LUIS
                 var queryString = HttpUtility.ParseQueryString(string.Empty);
 
                 // This app ID is for a public sample app that recognizes requests to turn on and turn off lights
-                var luisAppId = "c84baf86-ddaa-44be-ba71-91593d511ec7";// "df67dcdb-c37d-46af-88e1-8b97951ca1c2";
-                var endpointKey = "d5101d5ea931484696a78c4b1fd3a448";
+                var luisAppId = "AddyourID";
+                var endpointKey = "AddyourID";
 
                 // The request header contains your subscription key
                 client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", endpointKey);
